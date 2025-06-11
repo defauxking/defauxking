@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hey everybody, complete noob here 😬 
+## Just looking to learn a bit about coding hopefully 🤞
 <!--
 **defauxking/defauxking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
